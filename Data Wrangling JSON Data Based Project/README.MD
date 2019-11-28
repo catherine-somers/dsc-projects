@@ -1,4 +1,4 @@
-JSON Data Based Exercise
+# JSON Data Based Exercise
 
 Goals:
 - Getting familiar with packages for dealing with JSON
