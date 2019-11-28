@@ -12,7 +12,7 @@ Using Dataset: World Bank dataset from a school quality improvement project in E
 2. Find the top 10 major project themes (using column 'mjtheme_namecode')
 3. In 2. above you will notice that some entries have only the code and the name is missing. Create a dataframe with the missing names filled in.
 
-Approach:
+**Approach:**
 1. Read the JSON into DataFrame
 2. Sorting with groupby method to get project count and get top 10 countries
 3. Read the JSON as a string to flatten the nested dictionary and normalize data
