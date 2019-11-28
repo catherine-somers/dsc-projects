@@ -6,7 +6,7 @@
 - Work on exercise to be completed and submitted 
 
 
-Using Dataset: World Bank dataset from a school quality improvement project in Ethiopia. ('data/world_bank_projects.json')
+Data: World Bank dataset from a school quality improvement project in Ethiopia. ('data/world_bank_projects.json')
 
 1. Find the 10 countries with most projects
 2. Find the top 10 major project themes (using column 'mjtheme_namecode')
