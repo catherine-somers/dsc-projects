@@ -1,6 +1,6 @@
 # JSON Data Based Exercise
 
-Goals:
+**Goals:**
 - Getting familiar with packages for dealing with JSON
 - Study examples with JSON strings and files 
 - Work on exercise to be completed and submitted 
